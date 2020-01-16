@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Example</string>
+    <string name="ingresar_un_numero">Ingresar un número</string>
+    <string name="sumar">SUMAR</string>
+</resources>
